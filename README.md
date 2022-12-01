@@ -26,6 +26,8 @@ The PWA text editor (or progressive web app text editor) is a application to cre
 
 Enter the URL listed below or click the link to go to the hosted site. once at the site you should see an option that will allow you to download the PWA so you can access it directly from your computer and not have to navigate to the site in a web browser. 
 
+[J.A.T.E Text Editor](https://j-a-t-e-pwa-text-editor.herokuapp.com/)
+
 ---
 
 ## Usage
